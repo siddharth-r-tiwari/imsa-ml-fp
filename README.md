@@ -1,1 +1,1 @@
-# pca-naivebayes-machtraits
+# imsa-ml-projs
